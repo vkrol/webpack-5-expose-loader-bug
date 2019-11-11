@@ -6,7 +6,7 @@
   },
   "devDependencies": {
     "expose-loader": "0.7.5",
-    "webpack": "5.0.0-beta.3",
+    "webpack": "4.41.2",
     "webpack-cli": "3.3.10"
   }
 }
